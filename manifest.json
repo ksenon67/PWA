@@ -3,7 +3,7 @@
     "background_color": "#4666f0",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/PWA/",
     "name": "sklep internetowy",
     "short_name": "eshopAPP",
     "description": "sklep internetowy",
