@@ -1,0 +1,17 @@
+{
+    "theme_color": "#234af0",
+    "background_color": "#4666f0",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "name": "sklep internetowy",
+    "short_name": "eshopAPP",
+    "description": "sklep internetowy",
+    "icons": [
+        {
+            "src": "./logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
